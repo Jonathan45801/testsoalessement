@@ -1,0 +1,14 @@
+E:\ProjectApi\soal3\soal3\bin\Debug\net8.0\soal3.exe
+E:\ProjectApi\soal3\soal3\bin\Debug\net8.0\soal3.deps.json
+E:\ProjectApi\soal3\soal3\bin\Debug\net8.0\soal3.runtimeconfig.json
+E:\ProjectApi\soal3\soal3\bin\Debug\net8.0\soal3.dll
+E:\ProjectApi\soal3\soal3\bin\Debug\net8.0\soal3.pdb
+E:\ProjectApi\soal3\soal3\obj\Debug\net8.0\soal3.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectApi\soal3\soal3\obj\Debug\net8.0\soal3.AssemblyInfoInputs.cache
+E:\ProjectApi\soal3\soal3\obj\Debug\net8.0\soal3.AssemblyInfo.cs
+E:\ProjectApi\soal3\soal3\obj\Debug\net8.0\soal3.csproj.CoreCompileInputs.cache
+E:\ProjectApi\soal3\soal3\obj\Debug\net8.0\soal3.dll
+E:\ProjectApi\soal3\soal3\obj\Debug\net8.0\refint\soal3.dll
+E:\ProjectApi\soal3\soal3\obj\Debug\net8.0\soal3.pdb
+E:\ProjectApi\soal3\soal3\obj\Debug\net8.0\soal3.genruntimeconfig.cache
+E:\ProjectApi\soal3\soal3\obj\Debug\net8.0\ref\soal3.dll

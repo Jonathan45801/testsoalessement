@@ -1,0 +1,2 @@
+di dalam while pada function harus nya variable total di ganti dengan variabel hasil 
+dan  variable total belum di declare
