@@ -1,0 +1,14 @@
+E:\ProjectApi\soal1\soal1\bin\Debug\net8.0\soal1.exe
+E:\ProjectApi\soal1\soal1\bin\Debug\net8.0\soal1.deps.json
+E:\ProjectApi\soal1\soal1\bin\Debug\net8.0\soal1.runtimeconfig.json
+E:\ProjectApi\soal1\soal1\bin\Debug\net8.0\soal1.dll
+E:\ProjectApi\soal1\soal1\bin\Debug\net8.0\soal1.pdb
+E:\ProjectApi\soal1\soal1\obj\Debug\net8.0\soal1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectApi\soal1\soal1\obj\Debug\net8.0\soal1.AssemblyInfoInputs.cache
+E:\ProjectApi\soal1\soal1\obj\Debug\net8.0\soal1.AssemblyInfo.cs
+E:\ProjectApi\soal1\soal1\obj\Debug\net8.0\soal1.csproj.CoreCompileInputs.cache
+E:\ProjectApi\soal1\soal1\obj\Debug\net8.0\soal1.dll
+E:\ProjectApi\soal1\soal1\obj\Debug\net8.0\refint\soal1.dll
+E:\ProjectApi\soal1\soal1\obj\Debug\net8.0\soal1.pdb
+E:\ProjectApi\soal1\soal1\obj\Debug\net8.0\soal1.genruntimeconfig.cache
+E:\ProjectApi\soal1\soal1\obj\Debug\net8.0\ref\soal1.dll
